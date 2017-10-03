@@ -1,110 +1,1 @@
-"id","org.type","funder.yn"
-".ART","Company","Funder"
-"Aaron Copland Fund for Music Inc","Philanthropy","Funder"
-"AG Foundation","Philanthropy","Funder"
-"Andrew W. Mellon Foundation","Philanthropy","Funder"
-"Andy Warhol Foundation for the Visual Arts","Philanthropy","Funder"
-"Arnow Family Fund","Philanthropy","Funder"
-"Art Matters","Philanthropy","Funder"
-"Asian Cultural Council","Philanthropy","Funder"
-"Atlantic Foundation","Philanthropy","Funder"
-"Beatrice Snyder Fund","Philanthropy","Funder"
-"Bety N. Giles Charitable Foundation","Philanthropy","Funder"
-"Blank Forms","Peer","Peer"
-"Brooklyn Borough President Office","Government","Funder"
-"Brooklyn Delegation of the New York City Council","Government","Funder"
-"Brown Foundation, Inc. of Houston","Philanthropy","Funder"
-"Brownstone Family Foundation","Philanthropy","Funder"
-"Buddy Taub Foundation","Philanthropy","Funder"
-"CapitalOne","Company","Funder"
-"Carl & Marilynn Thoma Art Foundation","Philanthropy","Funder"
-"Casement Fund","Philanthropy","Funder"
-"CEC ArtsLink","Philanthropy","Funder"
-"Chamber Music America","Philanthropy","Funder"
-"Common Practice NY","Peer","Peer"
-"Community Trust","Philanthropy","Funder"
-"Craig Newmark Philanthropic Fund","Philanthropy","Funder"
-"Danielson Foundation","Philanthropy","Funder"
-"Davis Wright Tremaine","Company","Funder"
-"Deutsche Bank Americas Foundation","Philanthropy","Funder"
-"Doris Duke Charitable Foundation","Philanthropy","Funder"
-"Duane Morris","Company","Funder"
-"Ellenoff, Grossman & Schole LLP","Company","Funder"
-"Experimental Television Center","Philanthropy","Funder"
-"Eyebeam","Peer","Peer"
-"Fidelity","Company","Funder"
-"Fifth Floor Foundation","Philanthropy","Funder"
-"Foundation for Arts Initiatives","Philanthropy","Funder"
-"Foundation for Contemporary Arts","Philanthropy","Funder"
-"Fundacion Jumex","Philanthropy","Funder"
-"Furthermore: A program of the J. M. Kaplan Fund","Philanthropy","Funder"
-"GIPHY","Company","Funder"
-"Google Cultural Institute","Company","Funder"
-"Granny B. Foundation","Philanthropy","Funder"
-"Greenwich Collection Ltd","Company","Funder"
-"HBO","Company","Funder"
-"Henry S. and Margaret Gay Mika Charitable Foundation","Philanthropy","Funder"
-"Hive Digital Media Learning Fund in The New York","Philanthropy","Funder"
-"Horace W. Goldsmith Foundation","Philanthropy","Funder"
-"Howard Gilman Foundation","Philanthropy","Funder"
-"Industry City Distillery","Company","Funder"
-"Institute of Museum and Library Services","Government","Funder"
-"ISSUE Project Room","Peer","Peer"
-"James E. Robison Foundation","Philanthropy","Funder"
-"Jerome Foundation","Philanthropy","Funder"
-"John S. and James L. Knight Foundation","Philanthropy","Funder"
-"Kramer Levin Naftalis & Frankel, LLP","Company","Funder"
-"Lambent Foundation/Fund of Tides Foundation","Philanthropy","Funder"
-"Lehman Foundation","Philanthropy","Funder"
-"Mary Duke Biddle Foundation","Philanthropy","Funder"
-"Mayor of New York City","Government","Funder"
-"mediaThe foundation","Philanthropy","Funder"
-"Meltzer, Lippe, Goldstein & Brietstone, LLP","Company","Funder"
-"Members","Members","Member"
-"Michael Asher Foundation","Philanthropy","Funder"
-"National Endowment for the Arts","Government","Funder"
-"National Endowment for the Humanities","Government","Funder"
-"New York City Council Speaker","Government","Funder"
-"New York City Department of Cultural Affairs","Government","Funder"
-"New York City Department of Parks and Recreation","Government","Funder"
-"New York Council for the Humanities","Government","Funder"
-"New York State Council on the Arts","Government","Funder"
-"NOKIA-Bell Labs","Company","Funder"
-"NV/design.architecture","Company","Funder"
-"NYC Cultural Affairs","Government","Funder"
-"O.P. & W.E. Edwards Foundation Arts Fund","Philanthropy","Funder"
-"Office for Contemporary Art Norway","Government","Funder"
-"Orbit Fund","Philanthropy","Funder"
-"Orphiflamme Foundation","Philanthropy","Funder"
-"Pacific Foundation","Philanthropy","Funder"
-"Primary Information","Peer","Peer"
-"Rhizome","Peer","Peer"
-"Robert Bielecki Foundation","Philanthropy","Funder"
-"Robert D. Bielecki Foundation","Philanthropy","Funder"
-"Robert Rauschenberg Foundation","Philanthropy","Funder"
-"Rodney L. White Foundation","Philanthropy","Funder"
-"Royal Norwegian Consulate General","Government","Funder"
-"Shapeways","Company","Funder"
-"Shelley & David Rubin Foundation","Philanthropy","Funder"
-"Starr Associates","Company","Funder"
-"Stichting Egress Foundation","Philanthropy","Funder"
-"Swedish Arts Council","Government","Funder"
-"TD Bank","Company","Funder"
-"The Chicago Community Foundation","Philanthropy","Funder"
-"THE CURRENT SESSIONS","Peer","Peer"
-"The Danielson Foundation","Philanthropy","Funder"
-"The Golden Rule Foundatin","Philanthropy","Funder"
-"The Kaplan Brothers Fund","Philanthropy","Funder"
-"The Payne-Brodeur Giving Fund","Philanthropy","Funder"
-"The Pinkerton Foundation","Philanthropy","Funder"
-"The Shelley & Donald Rubin Foundation","Philanthropy","Funder"
-"The Truckin Foundation","Philanthropy","Funder"
-"thoma Foundation","Philanthropy","Funder"
-"Time Warner Cable","Company","Funder"
-"Triple Canopy","Peer","Peer"
-"Verizon Foundation","Company","Funder"
-"VIA Art Fund","Philanthropy","Funder"
-"W.A.G.E.","Peer","Peer"
-"Wagner Danziger Family Foundation","Philanthropy","Funder"
-"Wendy's Subway","Peer","Peer"
-"Wieden+Kennedy","Company","Funder"
+id,org.type,funder.peer.ART,Company,FunderAaron Copland Fund for Music Inc,Philanthropy,FunderAG Foundation,Philanthropy,FunderAndrew W. Mellon Foundation,Philanthropy,FunderAndy Warhol Foundation for the Visual Arts,Philanthropy,FunderArnow Family Fund,Philanthropy,FunderArt Matters,Philanthropy,FunderAsian Cultural Council,Philanthropy,FunderAtlantic Foundation,Philanthropy,FunderBeatrice Snyder Fund,Philanthropy,FunderBety N. Giles Charitable Foundation,Philanthropy,FunderBlank Forms,Peer,PeerBrooklyn Borough President Office,Government,FunderBrooklyn Delegation of the New York City Council,Government,Funder"Brown Foundation, Inc. of Houston",Philanthropy,FunderBrownstone Family Foundation,Philanthropy,FunderBuddy Taub Foundation,Philanthropy,FunderCapitalOne,Company,FunderCarl & Marilynn Thoma Art Foundation,Philanthropy,FunderCasement Fund,Philanthropy,FunderCEC ArtsLink,Philanthropy,FunderChamber Music America,Philanthropy,FunderCommon Practice NY,Peer,PeerCommunity Trust,Philanthropy,FunderCraig Newmark Philanthropic Fund,Philanthropy,FunderDanielson Foundation,Philanthropy,FunderDavis Wright Tremaine,Company,FunderDeutsche Bank Americas Foundation,Philanthropy,FunderDoris Duke Charitable Foundation,Philanthropy,FunderDuane Morris,Company,Funder"Ellenoff, Grossman & Schole LLP",Company,FunderExperimental Television Center,Philanthropy,FunderEyebeam,Peer,PeerFidelity,Company,FunderFifth Floor Foundation,Philanthropy,FunderFoundation for Arts Initiatives,Philanthropy,FunderFoundation for Contemporary Arts,Philanthropy,FunderFundacion Jumex,Philanthropy,FunderFurthermore: A program of the J. M. Kaplan Fund,Philanthropy,FunderGIPHY,Company,FunderGoogle Cultural Institute,Company,FunderGranny B. Foundation,Philanthropy,FunderGreenwich Collection Ltd,Company,FunderHBO,Company,FunderHenry S. and Margaret Gay Mika Charitable Foundation,Philanthropy,FunderHive Digital Media Learning Fund in The New York,Philanthropy,FunderHorace W. Goldsmith Foundation,Philanthropy,FunderHoward Gilman Foundation,Philanthropy,FunderIndustry City Distillery,Company,FunderInstitute of Museum and Library Services,Government,FunderISSUE Project Room,Peer,PeerJames E. Robison Foundation,Philanthropy,FunderJerome Foundation,Philanthropy,FunderJohn S. and James L. Knight Foundation,Philanthropy,Funder"Kramer Levin Naftalis & Frankel, LLP",Company,FunderLambent Foundation/Fund of Tides Foundation,Philanthropy,FunderLehman Foundation,Philanthropy,FunderMary Duke Biddle Foundation,Philanthropy,FunderMayor of New York City,Government,FundermediaThe foundation,Philanthropy,Funder"Meltzer, Lippe, Goldstein & Brietstone, LLP",Company,FunderMembers,Members,MemberMichael Asher Foundation,Philanthropy,FunderNational Endowment for the Arts,Government,FunderNational Endowment for the Humanities,Government,FunderNew York City Council Speaker,Government,FunderNew York City Department of Cultural Affairs,Government,FunderNew York City Department of Parks and Recreation,Government,FunderNew York Council for the Humanities,Government,FunderNew York State Council on the Arts,Government,FunderNOKIA-Bell Labs,Company,FunderNV/design.architecture,Company,FunderNYC Cultural Affairs,Government,FunderO.P. & W.E. Edwards Foundation Arts Fund,Philanthropy,FunderOffice for Contemporary Art Norway,Government,FunderOrbit Fund,Philanthropy,FunderOrphiflamme Foundation,Philanthropy,FunderPacific Foundation,Philanthropy,FunderPrimary Information,Peer,PeerRhizome,Peer,PeerRobert Bielecki Foundation,Philanthropy,FunderRobert D. Bielecki Foundation,Philanthropy,FunderRobert Rauschenberg Foundation,Philanthropy,FunderRodney L. White Foundation,Philanthropy,FunderRoyal Norwegian Consulate General,Government,FunderShapeways,Company,FunderShelley & David Rubin Foundation,Philanthropy,FunderStarr Associates,Company,FunderStichting Egress Foundation,Philanthropy,FunderSwedish Arts Council,Government,FunderTD Bank,Company,FunderThe Chicago Community Foundation,Philanthropy,FunderTHE CURRENT SESSIONS,Peer,PeerThe Danielson Foundation,Philanthropy,FunderThe Golden Rule Foundatin,Philanthropy,FunderThe Kaplan Brothers Fund,Philanthropy,FunderThe Payne-Brodeur Giving Fund,Philanthropy,FunderThe Pinkerton Foundation,Philanthropy,FunderThe Shelley & Donald Rubin Foundation,Philanthropy,FunderThe Truckin Foundation,Philanthropy,Funderthoma Foundation,Philanthropy,FunderTime Warner Cable,Company,FunderTriple Canopy,Peer,PeerVerizon Foundation,Company,FunderVIA Art Fund,Philanthropy,FunderW.A.G.E.,Peer,PeerWagner Danziger Family Foundation,Philanthropy,FunderWendy's Subway,Peer,PeerWieden+Kennedy,Company,Funder
