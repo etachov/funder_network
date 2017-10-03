@@ -70,7 +70,7 @@ graph <- visNetwork(nodes = funder_nodes,
   
 # save the html widget out as a self-containted file
 visSave(graph, 
-        file = "/Users/evan/Dropbox/Consulting Projects/2017 Avant/peers_graph.html",
+        file = "funder_peers_graph.html",
         selfcontained = TRUE,
         background = "#EDEDED")
 
