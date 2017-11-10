@@ -11,7 +11,7 @@ funder_edges <- read_csv("https://raw.githubusercontent.com/etachov/funder_netwo
 funder_nodes <- read_csv("https://raw.githubusercontent.com/etachov/funder_network/master/data/avant_peers_nodes.csv") 
 
 # use igraph::graph_from_data_frame to preserve named edge connections
-funder_graph <- graph_from_data_frame(d = funder_edges_raw, directed = TRUE, vertices = funder_nodes_raw) %>%
+funder_graph <- graph_from_data_frame(d = funder_edges, directed = TRUE, vertices = funder_nodes) %>%
   # then convert to a tbl_graph object
   as_tbl_graph()
 
